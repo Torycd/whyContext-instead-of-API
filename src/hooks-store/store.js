@@ -6,5 +6,5 @@ let listeners = [];
 let actions ={};
 
 const useStore = () => {
-    useState
+    useState(globalState)
 }
